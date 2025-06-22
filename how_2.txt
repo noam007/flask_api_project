@@ -1,0 +1,9 @@
+how to use:
+
+GET     http://localhost:5000/items
+POST    http://localhost:5000/item
+DELETE
+http://localhost:5000/item/:id
+Params -> Path Variables
+    Key : id
+    Value : 1 (or any)
